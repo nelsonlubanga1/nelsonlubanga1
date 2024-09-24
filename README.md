@@ -1,16 +1,24 @@
-## Hi there 👋
+# Bio
+Research Scientist at Aberystwyth university. \
+Consultant at International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)\
 
-<!--
-**nelsonlubanga1/nelsonlubanga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
+• Analyisis of whole genome resequencing data\
+• SNP calling\
+• Genomic Prediction\
+• Association Mapping (GWAS)\
+• Linkage and QTL mapping\
+• Breeding program simulations\
+• Tea Breeding\
+• Miscanthus Breeding\
+• Groundnuts breeding\
+• Project management
 
-Here are some ideas to get you started:
+# Research
+My research focuses on intergrating large datasets including genomic, phenomic, environmental and phenotypic data to improve the efficiency in breeding programs and accelerate the genetic improvements in crops. My current projects include:\
+• Implementing genomic selection in Miscanthus breeding program at Aberystwyth University. \
+• Implementing Genomic selection and phenomic Selection in sorghum and finger millet at ICRISAT.\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+e-mail: nelsonlubanga@gmail.com
+
