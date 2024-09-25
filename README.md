@@ -1,6 +1,6 @@
 # Bio
 Research Scientist at Aberystwyth university. \
-Consultant at International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)\
+Consultant at International Crops Research Institute for the Semi-Arid Tropics (ICRISAT)
 
 # Skills
 • Analyisis of whole genome resequencing data\
